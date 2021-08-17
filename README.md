@@ -1,9 +1,6 @@
 # VBA-Challange
 # VBA Homework: The VBA of Wall Street
 
-Note : My desktop memory does not allow me to run the script on the large data_set (multiple_year_stock_data). I kept recieveing the error (Excel not responding). 
-I attached the screenshot of alphabetical_testing.
-
 
 ## Background
 
