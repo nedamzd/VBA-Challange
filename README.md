@@ -1,6 +1,10 @@
 # VBA-Challange
 # VBA Homework: The VBA of Wall Street
 
+Note : My desktop memory does not allow me to eun the script on the large data_set (multiple_year_stock_data). I kept recieveing the error (Excel not responding). 
+I attached the screen shot of alphabetical_testing.
+
+
 ## Background
 
 You are well on your way to becoming a programmer and Excel master! In this homework assignment, you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
